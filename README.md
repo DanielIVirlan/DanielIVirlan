@@ -2,6 +2,8 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python-java
 
+- ![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,java,swift,kotlin)
+
 
 
 
