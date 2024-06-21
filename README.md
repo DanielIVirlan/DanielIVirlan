@@ -3,4 +3,4 @@ Welcome to my GitHub profile! 🌟
 
 ## Skills
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,java)
+![Languages](https://skillicons.dev/icons?i=c,python,java)
