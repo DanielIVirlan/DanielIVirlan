@@ -9,4 +9,6 @@ Welcome to my GitHub profile! 🌟
 ![Languages](https://skillicons.dev/icons?i=c,python,java)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vscode,JetBrains)
+![Others](https://skillicons.dev/icons?i=git,github,vscode)
+
+
