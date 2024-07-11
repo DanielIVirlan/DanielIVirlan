@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🌟
 
 ## Skills
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,python,java,c#)
+![Languages](https://skillicons.dev/icons?i=c,python,java)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,vscode,clion,eclipse,idea,pycharm,latex)
