@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Daniel's Git hub stats](https://github-readme-stats.vercel.app/api?username=DanielIVirlan&show_icons=true&theme=cobalt)
+![Daniel's Git hub stats](https://github-readme-stats.vercel.app/api?username=DanielIVirlan&show_icons=true&theme=gruvbox)
 
 ## Skills
 #### Programming Languages
